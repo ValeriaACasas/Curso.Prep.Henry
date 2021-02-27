@@ -223,7 +223,6 @@ function tieneTresDigitos(numero){
   } else {
     return false;
   }
-  
 }
 
 function doWhile(numero) {
